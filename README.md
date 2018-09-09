@@ -1,6 +1,6 @@
 # DC-TRNG & ES-TRNG
 
-##DC-TRNG
+## DC-TRNG
 
-##ES-TRNG
+## ES-TRNG
 
